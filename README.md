@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title> Taylor Vinson</title>
   </head>
   <body>
   <h1> Hi, I'm Taylor</h1>
@@ -13,7 +12,7 @@
 
   <a target="_blank" href="https://taylorvinson.com"> Read more about me on my portfolio website.
 
-  <img src "=Final-0312 copy__ copy.jpg" atl="Headshot of Taylor wearing a purple shirt and a green outdoors background." width="200">
+  <img src "=file:///Users/taylorvinson/Desktop/desktop2/Final-0312%20copy__%20copy.jpg" atl="Headshot of Taylor wearing a purple shirt and a green outdoors background." width="200">
 
 <h2> Checkout my Soundcloud playlist of music I love listening to.</h2>
 
