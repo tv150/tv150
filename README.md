@@ -36,6 +36,5 @@
     <li> <a target=" _blank" href="https://www.youtube.com/channel/UCRlrYo_vSr5OvfvrxliE3Pg"> Tekno </a> </li> 
 <h2> Checkout my Soundcloud playlist of music I love listening to.</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97abEozJjCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
