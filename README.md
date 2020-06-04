@@ -34,7 +34,6 @@
     <li> <a target="_blank" href="https://www.youtube.com/channel/UCvw92GAcjTITa_FsWs_CGzQ"> Iman Omari </a> </li>
     <li> <a target="_blank" href="https://www.youtube.com/user/thisismoonchild"> Moonchild </a> </li>
     <li> <a target=" _blank" href="https://www.youtube.com/channel/UCRlrYo_vSr5OvfvrxliE3Pg"> Tekno </a> </li> 
-<h2> Checkout my Soundcloud playlist of music I love listening to.</h2>
 
 </body>
 </html>
