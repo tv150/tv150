@@ -9,8 +9,8 @@
         Navigating tech and human behavior through UX research. </h2>
 
   <p> I care about people and doing work that matters. My interdisciplinary studies allow me to explore how cultural identity plays a role in the way users communicate and experience technology. As the Founder of <em>Untamed Tongues Poetry Collective</em> and a natural storyteller, <strong>I value constructive criticism and vulnerability as learning paths to empathize with others and solve large problems</strong>. I share a passion for <strong>advocating for others, understanding different perspectives and giving power to their voice</strong>. I have worked as a multimedia communication specialist for four years researching social data for web user experience, designing web and print graphics, developing digital journalism content, photography, and video content for an array of marketing, news, educational, and digital media organizations. I bring my varied creative, analytical and cultural communication expertise to managing digital products with inclusive and meaningful user experiences. </p>
-  <img src="https://taylorvinsonsite.files.wordpress.com/2018/11/final-edit.jpg?w=1090&h=1636" alt="Photo of Taylor in a green and brown background wearing a purple shirt with a graphic" title="Taylor Vinson" width="300" height="400"> </img>
-  <a target="_blank" href="https://taylorvinson.com"> Read more about me on my portfolio website.</a>
+  <img src="https://taylorvinsonsite.files.wordpress.com/2018/11/final-edit.jpg?w=1090&h=1636" alt="Photo of Taylor in a green and brown background wearing a purple shirt with a graphic" title="Taylor Vinson" width="300" height="400" align="center"> </img>
+  <a target="_blank" href="https://taylorvinson.com" align="center"> Read more about me on my portfolio website.</a>
 
 <h2> Things I Love to Do</h2>
 <p>
